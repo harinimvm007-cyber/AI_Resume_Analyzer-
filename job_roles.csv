@@ -1,0 +1,6 @@
+role,required_skills
+Data Analyst,python|sql|excel|pandas|numpy|power bi|statistics
+Junior Machine Learning Engineer,python|machine learning|scikit-learn|pandas|numpy|fastapi|docker
+Python Developer,python|sql|git|github|fastapi|flask|django
+NLP Engineer,python|nlp|transformers|hugging face|machine learning|deep learning
+Computer Vision Engineer,python|computer vision|opencv|cnn|yolo|deep learning

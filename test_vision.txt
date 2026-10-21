@@ -1,0 +1,10 @@
+Sample Student Resume
+
+Education
+B.E. Computer Science
+
+Skills
+Python, computer vision, OpenCV, CNN, YOLO, deep learning
+
+Project
+Created a small image recognition project using Python and OpenCV.

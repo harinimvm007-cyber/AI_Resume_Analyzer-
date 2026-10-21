@@ -1,0 +1,5 @@
+test_id,input_summary,expected_result,actual_result,status
+T1,Sample student resume,Data Analyst and Junior Machine Learning Engineer should rank highest,"Data Analyst 71%; Junior Machine Learning Engineer 71%; Python Developer 57%; Data Analyst gaps: Power BI and statistics",PASS
+T2,Resume focused on Python NLP transformers Hugging Face and deep learning,NLP Engineer should rank highest,NLP Engineer ranked highest,PASS
+T3,Resume focused on Python computer vision OpenCV CNN YOLO and deep learning,Computer Vision Engineer should rank highest,"Computer Vision Engineer 100%; NLP Engineer 33%; Data Analyst 14%",PASS
+T4,Empty text file,App should show a readable error instead of crashing,"I couldn't read text from this file.",PASS

@@ -1,0 +1,36 @@
+skill,category
+python,Programming
+java,Programming
+c++,Programming
+c#,Programming
+.net,Programming
+javascript,Programming
+html,Web
+css,Web
+sql,Database
+excel,Data Analysis
+pandas,Data Analysis
+numpy,Data Analysis
+matplotlib,Data Visualization
+power bi,Data Visualization
+statistics,Data Analysis
+machine learning,AI and Machine Learning
+scikit-learn,AI and Machine Learning
+deep learning,AI and Machine Learning
+nlp,AI and Language
+transformers,AI and Language
+hugging face,AI and Language
+computer vision,AI and Vision
+opencv,AI and Vision
+cnn,AI and Vision
+yolo,AI and Vision
+fastapi,Web Development
+flask,Web Development
+django,Web Development
+streamlit,Web Development
+docker,Cloud and Tools
+git,Cloud and Tools
+github,Cloud and Tools
+aws,Cloud and Tools
+azure,Cloud and Tools
+linux,Cloud and Tools
